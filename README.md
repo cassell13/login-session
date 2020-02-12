@@ -3,7 +3,7 @@
 **Cassell Robinson**
   - crobinson66@gwu.edu
   - cassell13
-  - your gwupyterhub.seas.gwu.edu link to live webpage
+  - your gwupyterhub.seas.gwu.edu/~cassell13/example1.php
  
 ## Description
 Write PHP code to complete the log in and log out example from the starter code using PHP session variables.
