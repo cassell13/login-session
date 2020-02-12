@@ -1,8 +1,8 @@
 # PHP session
 
-**Your Name**
-  - your_email@gwu.edu
-  - your github username
+**Cassell Robinson**
+  - crobinson66@gwu.edu
+  - cassell13
   - your gwupyterhub.seas.gwu.edu link to live webpage
  
 ## Description
