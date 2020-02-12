@@ -25,4 +25,4 @@ INSERT INTO `mismatch_user` VALUES (9, 'dierdre', '2456', '2008-06-03 15:01:51',
 INSERT INTO `mismatch_user` VALUES (10, 'baldpaul', 'wrtv4570', '2008-06-03 15:02:02', 'Paul', 'Hillsman', 'M', '1964-12-18', 'Charleston', 'SC', 'paulpic.jpg');
 INSERT INTO `mismatch_user` VALUES (11, 'jnettles', '12450jhgf', '2008-06-03 15:02:13', 'Johan', 'Nettles', 'M', '1981-11-03', 'Athens', 'GA', 'johanpic.jpg');
 INSERT INTO `mismatch_user` VALUES (12, 'rubyr', '12rtgb', '2008-06-03 15:02:24', 'Ruby', 'Reasons', 'F', '1972-09-18', 'Conundrum', 'AZ', 'rubypic.jpg');
-INSERT INTO `mismatch_user` mismatch_user(username,password) values ('admin','admin');
+INSERT INTO `mismatch_user`(username,password) VALUES ('admin','admin');
